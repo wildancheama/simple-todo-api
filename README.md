@@ -34,6 +34,8 @@ PORT=3000
 
 ## Endpoint
 - `GET /health` → Check if the server is running correctly
+- `GET /todos`  → Get all todo items
+- `POST /todos` → Create a new todo item
 
 ---
 
